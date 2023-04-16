@@ -1,9 +1,11 @@
 ---
-title:
-subtitle:
 widget: blank
 headless: true
 weight: 40
+
+title:
+subtitle:
+
 design:
   columns: '1'
 ---
